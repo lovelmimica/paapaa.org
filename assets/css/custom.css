@@ -142,7 +142,7 @@
     }
 }
 
-.memory-image-box img{
+.vlt-partners li .memory-image-box img{
     border-radius: 5px;
     cursor: pointer;
     transition: opacity 0.4s;
